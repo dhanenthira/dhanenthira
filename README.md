@@ -1,15 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Dhanenthira
 
-Here are some ideas to get you started:
+💻 Experienced Software Developer | Web & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+🚀 Professional Summary
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+Experienced in building scalable web applications and integrating modern AI solutions. Passionate about creating efficient, user-focused systems with clean design and performance in mind.
+
+---
+
+🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/> ---
+
+⚡ Core Skills
+
+- Full Stack Web Development
+- AI API Integration (OpenAI, Gemini, DeepSeek)
+- Responsive UI/UX Design
+- Firebase Authentication & Realtime Database
+- Problem Solving & System Design
+
+---
+
+🌐 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dhanenthira
+- 📫 Email: dhanenthira2005@gmail.com
+
+---
+
+⭐ Build simple. Build smart.
