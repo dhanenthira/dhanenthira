@@ -51,17 +51,18 @@ Problem Solving & System Design
 
 
 ---
+
 🌐 Connect
 
-<p align="left">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18"/> 
   <a href="https://www.linkedin.com/in/dhanenthira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>  <a href="mailto:dhanenthira2005@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
-  </a>  <a href="https://dhanenthira.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio"/>
+    https://www.linkedin.com/in/dhanenthira
+  </a> <br/>  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="18" height="18"/> 
+  <a href="mailto:dhanenthira2005@gmail.com">
+    dhanenthira2005@gmail.com
+  </a> <br/>  <img src="https://img.icons8.com/fluency/48/domain.png" width="18" height="18"/> 
+  <a href="https://dhanenthira.vercel.app/" target="_blank">
+    https://dhanenthira.vercel.app/
   </a>
 </p>
-
-
-
