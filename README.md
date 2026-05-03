@@ -51,9 +51,17 @@ Problem Solving & System Design
 
 
 ---
-
 🌐 Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/dhanenthira
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanenthira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>  <a href="mailto:dhanenthira2005@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>  <a href="https://dhanenthira.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio"/>
+  </a>
+</p>
 
-📫 Email: dhanenthira2005@gmail.com
+
+
